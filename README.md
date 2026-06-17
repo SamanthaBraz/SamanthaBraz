@@ -1,20 +1,34 @@
-## SAMANTHA BRAZ 👋
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=C792EA&center=true&width=900&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;SQL+%7C+Python+%7C+JavaScript" />
+</p>
 
-<!--
-**SamanthaBraz/SamanthaBraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Estudante de Engenharia de Software, com interesse em Desenvolvimento de Software, Banco de Dados e Análise de Dados. Sou apaixonada por tecnologia, aprendizado contínuo e resolução de problemas. Constantemente exploro novas ferramentas e desenvolvo habilidades que contribuem para meu crescimento profissional e para a criação de soluções eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- <a href="https://br.linkedin.com/in/samantha-braz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+#
+
+### 💻 Atualmente estudando e desenvolvendo projetos com as tecnologias abaixo.
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
+  <img width="8" />
+</div>
+  
+ 
+#
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamanthaBraz&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanthaBraz&layout=compact&theme=tokyonight)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamanthaBraz/SamanthaBraz/output/github-contribution-grid-snake-dark.svg">
