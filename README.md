@@ -2,13 +2,16 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=C792EA&center=true&width=900&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;SQL+%7C+Python+%7C+JavaScript" />
 </p>
 
+
 ---
 
-Estudante de Engenharia de Software, com interesse em Desenvolvimento de Software, Banco de Dados e Análise de Dados. Sou apaixonada por tecnologia, aprendizado contínuo e resolução de problemas. Constantemente exploro novas ferramentas e desenvolvo habilidades que contribuem para meu crescimento profissional e para a criação de soluções eficientes.
+<p align="center"> Atualmente curso Engenharia de Software, com interesse em Desenvolvimento Web, Desenvolvimento de Software e Análise de Dados. Tenho afinidade com tecnologia, aprendizado contínuo e resolução de problemas. Procuro sempre explorar novas ferramentas e desenvolver habilidades que contribuam para meu crescimento profissional e para a criação de soluções eficientes.
 
 #
 
-### 💻 Atualmente estudando e desenvolvendo projetos com as tecnologias abaixo.
+
+
+###  Atualmente estudando e desenvolvendo projetos com as tecnologias abaixo.
 
 
 <div align="left">
