@@ -29,10 +29,6 @@
 #
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamanthaBraz&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanthaBraz&layout=compact&theme=tokyonight)
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamanthaBraz/SamanthaBraz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamanthaBraz/SamanthaBraz/output/github-contribution-grid-snake-dark.svg">
